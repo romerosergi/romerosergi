@@ -7,7 +7,7 @@ Full-Stack and FiveM Developer
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [sergioromerocorredor@gmail.com](mailto:sergioromerocorredor@gmail.com)
 
-### Skills
+Skills
 
 
 <p align="left">
